@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "target",
+        "target": "es6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitReturns": true,
+        "removeComments": true
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}

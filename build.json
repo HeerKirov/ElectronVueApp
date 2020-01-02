@@ -1,0 +1,11 @@
+{
+  "name": "ElectronVueApp",
+  "bundleName": "Electron Vue App",
+  "version": null,
+  "versionFullName": null,
+  "package": "com.heerkirov.electron",
+  "homepage": "https://github.com/HeerKirov/ElectronVueApp",
+  "icons": {
+    "darwin": "app.icns"
+  }
+}

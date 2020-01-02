@@ -1,0 +1,24 @@
+{
+  "name": "electron_vue_app",
+  "version": "0.1.0",
+  "description": "An general electron-vue application framework",
+  "main": "backend/index.js",
+  "scripts": {
+    "start": "electron .",
+    "debug": "electron . -debug",
+    "build": "node build/build.js",
+    "build-update": "node build/build.js -update"
+  },
+  "author": "Heer Kirov",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.6",
+    "electron": "~7.1.7",
+    "pug": "^2.0.4",
+    "typescript": "^3.7.4"
+  }
+}
